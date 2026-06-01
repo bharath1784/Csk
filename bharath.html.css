@@ -1,0 +1,28 @@
+body{
+  background-image:url("spiderman 1.jpg");
+  background-size: cover;
+  
+}
+
+h1{
+  color:red;
+  font-size:80px;
+  text-align:center;
+  text-shadow:3px 2px white;
+  
+  
+}
+h2{
+  color:white;
+  
+}
+p{
+  color:brown;
+  font-size:50px;
+  text-align: center;
+  text-shadow:2px 1px white;
+  
+}
+h2{
+  color:white;
+}  
